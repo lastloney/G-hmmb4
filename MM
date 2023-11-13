@@ -1,0 +1,2 @@
+vless://601cf272-203b-4573-9fc6-2c7d4d28b58a@v4.itsover619.eu.org:443?encryption=none&security=none&type=tcp&headerType=http#X%20%7C%201%20%7C%20%F0%9F%87%B9%F0%9F%87%B7
+vless://601cf272-203b-4573-9fc6-2c7d4d28b58a@84.32.230.87:443?encryption=none&security=none&type=tcp&headerType=http#X%20%7C%202%20%7C%20%F0%9F%87%B9%F0%9F%87%B7
